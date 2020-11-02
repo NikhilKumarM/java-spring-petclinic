@@ -1,6 +1,6 @@
 ---
 page_type: sample
-description: "Deploy Java Spring Petclinic application using GitHub Actions"
+description: "Deploy Java Spring Petclinic application using GitHub Action"
 products:
 - GitHub Actions
 - Azure App service

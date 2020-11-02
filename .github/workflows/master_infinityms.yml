@@ -29,4 +29,4 @@ jobs:
         app-name: 'infinityms'
         slot-name: 'production'
         publish-profile: ${{ secrets.AzureAppService_PublishProfile_d441453cad644fc2804dd4808348b657 }}
-        package: '${{ github.workspace }}/target/*.war'
+        package: '${{ github.workspace }}/target/*.jar'
